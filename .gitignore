@@ -1,0 +1,6 @@
+.build/
+dist/
+*.wav
+.DS_Store
+.claude/
+docs/superpowers/
